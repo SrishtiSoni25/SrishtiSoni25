@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srishti Soni</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MCA+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Angular+%7C+Firebase;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SrishtiSoni25&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
@@ -104,11 +102,11 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/srishti-kumari-6135a8224/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:srishtisoni2502@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
