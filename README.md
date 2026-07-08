@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srishti Soni</h1>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SrishtiSoni25&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
-</p>
-
----
+<h1 align="center">Hi, I'm Srishti Kumari</h1>
 
 # 👩‍💻 About Me
 
