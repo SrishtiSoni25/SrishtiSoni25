@@ -168,13 +168,8 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-> Replace this image after your snake workflow is working.
-
-```md
 <p align="center">
-<img src="https://raw.githubusercontent.com/SrishtiSoni25/SrishtiSoni25/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/SrishtiSoni25/SrishtiSoni25/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ```
 
