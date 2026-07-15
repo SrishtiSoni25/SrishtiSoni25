@@ -131,16 +131,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=SrishtiSoni25&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-</p>
-
----
-
 # 🐍 Contribution Graph
 
 <p align="center">
-
-![Snake animation](https://github.com/SrishtiSoni25/SrishtiSoni25/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/SrishtiSoni25/SrishtiSoni25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
