@@ -1,46 +1,54 @@
 <h1 align="center">Hi 👋, I'm Srishti Kumari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;MCA+(AI+%26+ML)+Student;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;Machine+Learning+Explorer;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;MCA+(AI+%26+ML)+Student;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;Machine+Learning+Explorer;Open+Source+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SrishtiSoni25&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 MCA student specializing in **Artificial Intelligence & Machine Learning**
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💻 Passionate **Full Stack Java Developer** with experience in building scalable web applications.
+🎓 **MCA (AI & ML) Student**
 
-🚀 Skilled in **Java, Spring Boot, React, MySQL, Hibernate, and REST APIs**.
+💻 Passionate **Full Stack Java Developer**
 
-🌱 Currently learning **Data Structures & Algorithms, System Design, Spring Security, and Microservices**.
+🚀 Building scalable web applications using **Java, Spring Boot, React & MySQL**
 
-🏆 Love participating in **Hackathons**, solving coding challenges, and building impactful real-world projects.
+🌱 Currently learning
 
-🎯 **Goal:** To become a Software Development Engineer at a product-based company.
+- Data Structures & Algorithms
+- Spring Security
+- Microservices
+- System Design
+- Machine Learning
+
+🏆 Hackathon Enthusiast
+
+💡 Open Source Learner
+
+🎯 Aspiring Software Development Engineer
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Building Full Stack Java Projects
-- 🌱 Learning Spring Security & Microservices
-- 💻 Solving DSA daily on LeetCode
-- 🤝 Looking to contribute to Open Source
-- 📚 Exploring Machine Learning
-
----
-
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/srishti-kumari-6135a8224/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/srishti-kumari-6135a8224/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SrishtiSoni25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -49,45 +57,54 @@
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js"/>
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap"/>
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+</p>
 
-### Database
+### 🤖 AI / ML
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
-### AI / ML
+### 🛠 Tools
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vite"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+</p>
 
-### Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+# 🚀 Current Focus
+
+```text
+✔ Full Stack Java Development
+✔ Spring Boot Projects
+✔ React Applications
+✔ DSA in Java
+✔ Machine Learning
+✔ Open Source Contributions
+```
 
 ---
 
@@ -95,9 +112,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SrishtiSoni25&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SrishtiSoni25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSoni25&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSoni25&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,34 +126,60 @@
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SrishtiSoni25&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=SrishtiSoni25&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=SrishtiSoni25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
+
+---
+
+# ✨ Featured Projects
+
+🚀 **Srishti Alumni** — Alumni Networking Platform
+
+🎵 **Music Factory** — Spring Boot Music Listing Application
+
+🌾 **FarmerQuest** — Gamified Sustainable Agriculture Platform
+
+🎬 **Movie Recommendation System** — ML-powered Movie Recommender
 
 ---
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=SrishtiSoni25&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-# 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SrishtiSoni25/SrishtiSoni25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+# 🐍 Contribution Snake
+
+> Replace this image after your snake workflow is working.
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/SrishtiSoni25/SrishtiSoni25/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
