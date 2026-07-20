@@ -339,37 +339,33 @@ Python • TensorFlow • Keras • OpenCV
 
 # 🏆 Achievements
 
-- 🥇 Solved 100+ DSA problems on LeetCode.
-- 🚀 Completed the 100 Days of LeetCode Challenge.
-- 💻 Developed multiple Full Stack Java projects.
-- 🤖 Built Machine Learning applications using Python.
-- 🌱 Actively learning Microservices and System Design.
-- 🎯 Hackathon Enthusiast.
-- ⭐ Open Source Learner.
+-  Solved 100+ DSA problems on LeetCode.
+- Completed the 100 Days of LeetCode Challenge.
+-  Developed multiple Full Stack Java projects.
+-  Built Machine Learning applications using Python.
+-  Actively learning Microservices and System Design.
+-  Hackathon Enthusiast.
+- Open Source Learner.
 
 ---
 
-# 📜 Certifications
+# Certifications
 
-### 🏅 Microsoft Certified
+###  Microsoft Certified
 
 - Microsoft Certified: **DP-800 – SQL AI Developer Associate**
 
-### 🤖 Artificial Intelligence
+###  Artificial Intelligence
 
 - Agentic AI Certification
 
-### 💻 Development
+###  Development
 
 - Full Stack Java Development
 
-### 📊 Machine Learning
+###  Machine Learning
 
 - Machine Learning using Python
-
-### ☁️ Cloud
-
-- Microsoft Azure Fundamentals *(if applicable)*
 
 ---
 
@@ -400,16 +396,6 @@ Python • TensorFlow • Keras • OpenCV
 </p>
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SrishtiSoni25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSoni25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
