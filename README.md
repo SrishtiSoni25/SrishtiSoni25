@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Srishti Kumari
+# Hi , I'm Srishti Kumari
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Java+Developer;MCA+(AI+%26+ML)+Student;Spring+Boot+%7C+React+Developer;Machine+Learning+Explorer;DSA+Enthusiast;Open+Source+Learner" />
 
@@ -16,15 +16,15 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🎓 **MCA (Artificial Intelligence & Machine Learning) Student**
+ **MCA (Artificial Intelligence & Machine Learning) Student**
 
-💻 Passionate Full Stack Java Developer who enjoys building scalable applications, solving real-world problems, and continuously learning modern technologies.
+Passionate Full Stack Java Developer who enjoys building scalable applications, solving real-world problems, and continuously learning modern technologies.
 
-🚀 Currently focused on developing enterprise-level applications using Java, Spring Boot, React, and Machine Learning.
+ Currently focused on developing enterprise-level applications using Java, Spring Boot, React, and Machine Learning.
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - Data Structures & Algorithms
 - Spring Security
@@ -33,7 +33,7 @@
 - Machine Learning
 - Docker & Kubernetes
 
-### 💬 Ask Me About
+### Ask Me About
 
 - Java
 - Spring Boot
@@ -43,13 +43,13 @@
 - Machine Learning
 - Git & GitHub
 
-### 🎯 Career Goal
+### Career Goal
 
 Aspiring Software Development Engineer passionate about building impactful software and contributing to open-source projects.
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -73,30 +73,30 @@ Aspiring Software Development Engineer passionate about building impactful softw
 
 ---
 
-# 🚀 Open To
+#  Open To
 
-- 💼 Software Engineer
-- 💻 Full Stack Java Developer
-- ⚙️ Backend Developer
-- 🌐 Frontend Developer
-- 🤝 Open Source Collaboration
-- 🎓 Internship Opportunities
+-  Software Engineer
+-  Full Stack Java Developer
+-  Backend Developer
+-  Frontend Developer
+-  Open Source Collaboration
+-  Internship Opportunities
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
-## 👨‍💻 Languages
+## Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,springboot,C"/>
 
 </p>
 
 ---
 
-## 🎨 Frontend
+## Frontend
 
 <p align="center">
 
@@ -106,7 +106,7 @@ Aspiring Software Development Engineer passionate about building impactful softw
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 <p align="center">
 
@@ -120,7 +120,7 @@ Aspiring Software Development Engineer passionate about building impactful softw
 
 ---
 
-## 🤖 AI / ML
+## AI / ML
 
 <p align="center">
 
@@ -136,7 +136,7 @@ Aspiring Software Development Engineer passionate about building impactful softw
 
 ---
 
-## 🗄️ Database
+## Database
 
 <p align="center">
 
@@ -146,7 +146,7 @@ Aspiring Software Development Engineer passionate about building impactful softw
 
 ---
 
-## 🛠 Tools
+## Tools
 
 <p align="center">
 
@@ -158,7 +158,7 @@ Aspiring Software Development Engineer passionate about building impactful softw
 
 ---
 
-# 🧠 Core Skills
+# Core Skills
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -173,7 +173,7 @@ Aspiring Software Development Engineer passionate about building impactful softw
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 ```yaml
 Learning:
@@ -198,9 +198,9 @@ Goal:
 ```
 
 ---
-# 💼 Experience
+# Experience
 
-## 🚀 Full Stack Web Development Intern
+## Full Stack Web Development Intern
 ### Investor Home Solutions
 
 **Tech Stack:** Angular • TypeScript • Bootstrap • Firebase
@@ -213,7 +213,7 @@ Goal:
 
 ---
 
-## 🔐 Cyber Security Intern
+## Cyber Security Intern
 ### Cyber Secured India
 
 **Duration:** 3 Months
@@ -224,29 +224,18 @@ Goal:
 
 ---
 
-## 🌐 Web Development Intern
+##  Web Development Intern
 ### Oasis Infobyte
 
 - Developed responsive websites using HTML, CSS and JavaScript.
 - Improved frontend performance and user experience.
 - Worked on real-world web development projects.
 
----
-
-## 💻 C++ Programming Intern
-### InternPe
-
-- Strengthened Object-Oriented Programming concepts.
-- Solved programming challenges using C++.
-- Improved logical thinking and problem-solving skills.
+#  Featured Projects
 
 ---
 
-# 🚀 Featured Projects
-
----
-
-## 🎓 Srishti Alumni
+##  Uttaranchal Alumni
 
 ### Alumni Networking Platform
 
@@ -266,7 +255,7 @@ React • Node.js • Express.js • MySQL • Sequelize
 
 ---
 
-## 🎵 Music Factory
+##  Music Factory
 
 ### Music Listing Web Application
 
@@ -284,7 +273,7 @@ Java • Spring Boot • Hibernate • JDBC • Thymeleaf • MySQL
 
 ---
 
-## 🌾 FarmerQuest
+##  FarmerQuest
 
 ### AI for Bharat Hackathon Project
 
@@ -302,7 +291,7 @@ React • Spring Boot • AI • Machine Learning
 
 ---
 
-## 🎬 Movie Recommendation System
+##  Movie Recommendation System
 
 ### Machine Learning Project
 
@@ -320,7 +309,7 @@ Python • Pandas • Scikit-Learn • Streamlit
 
 ---
 
-## 🌱 Plant Disease Detection
+##  Plant Disease Detection
 
 ### Machine Learning Project
 
@@ -337,7 +326,7 @@ Python • TensorFlow • Keras • OpenCV
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 -  Solved 100+ DSA problems on LeetCode.
 - Completed the 100 Days of LeetCode Challenge.
@@ -369,7 +358,7 @@ Python • TensorFlow • Keras • OpenCV
 
 ---
 
-# 📚 Education
+# Education
 
 | Degree | Institute | Duration |
 |----------|-----------|----------|
@@ -377,7 +366,7 @@ Python • TensorFlow • Keras • OpenCV
 | Bachelor of Computer Applications (BCA) | Completed | 2021 – 2024 |
 
 ---
-# 💻 Coding Profiles
+# Coding Profiles
 
 <p align="center">
 
@@ -415,7 +404,7 @@ Python • TensorFlow • Keras • OpenCV
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 > **⚠️ This image will appear only after you set up the GitHub Actions workflow.**
 
@@ -452,16 +441,16 @@ while(!success) {
 
 # 🎯 2026 Goals
 
-- ✅ Master Data Structures & Algorithms
-- ✅ Build scalable Full Stack Java applications
-- ✅ Learn Microservices & System Design
-- ✅ Contribute to Open Source Projects
-- ✅ Strengthen AI & Machine Learning skills
-- ✅ Crack Software Development Engineer (SDE) interviews
+-  Master Data Structures & Algorithms
+-  Build scalable Full Stack Java applications
+-  Learn Microservices & System Design
+-  Contribute to Open Source Projects
+-  Strengthen AI & Machine Learning skills
+-  Crack Software Development Engineer (SDE) interviews
 
 ---
 
-# 📬 Let's Connect
+#  Let's Connect
 
 <p align="center">
 
@@ -485,7 +474,7 @@ while(!success) {
 
 ---
 
-# ✍️ Random Dev Quote
+#  Quote
 
 <p align="center">
 
