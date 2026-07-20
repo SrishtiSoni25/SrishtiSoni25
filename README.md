@@ -381,3 +381,142 @@ Python • TensorFlow • Keras • OpenCV
 | Bachelor of Computer Applications (BCA) | Completed | 2021 – 2024 |
 
 ---
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Srishti_165/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SrishtiSoni25" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srishti-kumari-6135a8224/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SrishtiSoni25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSoni25&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SrishtiSoni25&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SrishtiSoni25&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **⚠️ This image will appear only after you set up the GitHub Actions workflow.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SrishtiSoni25/SrishtiSoni25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+# 💡 Developer Mindset
+
+```text
+while(!success) {
+    learn();
+    build();
+    debug();
+    improve();
+}
+```
+
+---
+
+# 🌟 Fun Facts
+
+- ☕ Coffee + Music = Productive Coding Sessions
+- 💻 I enjoy turning ideas into real-world applications.
+- 📚 Always exploring new technologies.
+- 🤝 Love collaborating on open-source projects.
+- 🚀 Passionate about solving real-world problems with code.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Data Structures & Algorithms
+- ✅ Build scalable Full Stack Java applications
+- ✅ Learn Microservices & System Design
+- ✅ Contribute to Open Source Projects
+- ✅ Strengthen AI & Machine Learning skills
+- ✅ Crack Software Development Engineer (SDE) interviews
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="mailto:srishtisoni2502@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srishti-kumari-6135a8224/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SrishtiSoni25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Srishti_165/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,25:1F2937,50:2563EB,75:3B82F6,100:60A5FA"/>
+
+### 💙 If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=SrishtiSoni25&label=Visitors&color=58A6FF&style=flat-square"/>
+
+</div>
